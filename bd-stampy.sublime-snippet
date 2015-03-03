@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+var ${1} = require('bd-stampy/${2:components}/${1}');
+]]></content>
+    <tabTrigger>bd-stampy</tabTrigger>
+    <scope>source.js.jsx</scope>
+    <description>requires</description>
+</snippet>
+
+
